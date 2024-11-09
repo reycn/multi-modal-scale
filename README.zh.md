@@ -10,7 +10,7 @@
 
 **发表:** [AAAI 2025](https://aaai.org/conference/aaai/aaai-25/) (学生摘要，受邀口头汇报)  
 
-**作者:** [Rongxin Ouyang (欧阳荣鑫)](https://rongxin.me/cv)$^1$, [Kokil Jaidka](https://discovery.nus.edu.sg/17291-kokil-jaidka)$^1$$^2$, [Subhayan Mukerjee](https://discovery.nus.edu.sg/19113-subhayan-mukerjee)$^1$$^2$, and Guangyu Cui$^2$
+**作者:** [Rongxin Ouyang (欧阳荣鑫)](https://rongxin.me/cv)$^1$, [Kokil Jaidka](https://discovery.nus.edu.sg/17291-kokil-jaidka)$^1$ $^2$, [Subhayan Mukerjee](https://discovery.nus.edu.sg/19113-subhayan-mukerjee)$^1$ $^2$, and Guangyu Cui $^2$
 
   $^1$ 新加坡国立大学传播与新媒体系  
   $^2$ 新加坡国立大学可信互联网和社区中心

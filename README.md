@@ -10,7 +10,7 @@ This repository contains the codes and datasets used in our study.
 
 **Publication:** [AAAI 2025](https://aaai.org/conference/aaai/aaai-25/) (Student Abstract, Oral)  
 
-**Authors:** [Rongxin Ouyang](https://rongxin.me/cv)$^1$, [Kokil Jaidka](https://discovery.nus.edu.sg/17291-kokil-jaidka)$^1$$^2$, [Subhayan Mukerjee](https://discovery.nus.edu.sg/19113-subhayan-mukerjee)$^1$$^2$, and Guangyu Cui$^2$
+**Authors:** [Rongxin Ouyang](https://rongxin.me/cv)$^1$, [Kokil Jaidka](https://discovery.nus.edu.sg/17291-kokil-jaidka)$^1$ $^2$, [Subhayan Mukerjee](https://discovery.nus.edu.sg/19113-subhayan-mukerjee)$^1$ $^2$, and Guangyu Cui $^2$
 
   $^1$ Department of Communications and New Media, National University of Singapore  
   $^2$ Centre for Trusted Internet \& Community, National University of Singapore
