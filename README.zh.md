@@ -28,6 +28,14 @@
 
 - [Hugging Face 备份](https://huggingface.co/datasets/limjiayi/hateful_memes_expanded)
 
+## 模型
+
+我们感谢在我们的研究中使用的所有既往模型的所有贡献者：
+
+- [Sanh, V. (2019). DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter. *arXiv preprint arXiv:1910.01108*.](https://arxiv.org/abs/1910.01108)[[模型](https://huggingface.co/distilbert/distilbert-base-uncased)] [[微调指南](https://huggingface.co/docs/transformers/model_doc/distilbert)]
+- [Chen, Z., Wu, J., Wang, W., Su, W., Chen, G., Xing, S., ... & Dai, J. (2024). Internvl: Scaling up vision foundation models and aligning for generic visual-linguistic tasks. In *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition* (pp. 24185-24198).](https://openaccess.thecvf.com/content/CVPR2024/html/Chen_InternVL_Scaling_up_Vision_Foundation_Models_and_Aligning_for_Generic_CVPR_2024_paper.html) [[模型](https://huggingface.co/OpenGVLab/InternVL2-8B)] [[微调指南](https://internvl.readthedocs.io/en/latest/internvl2.0/quick_start.html)]
+- [OpenAI (2023). GPT-4 Technical Report.](https://cdn.openai.com/papers/gpt-4.pdf) *(作为教师模型)*
+
 ## 文件结构
 
 - `./dataset/`
