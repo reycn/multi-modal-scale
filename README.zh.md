@@ -53,7 +53,7 @@
 
 ## 致谢
 
-这项工作得到了新加坡教育部 AcRF TIER 3 Grant (`MOE-MOET32022-0001`) 的支持。我们感谢 Shaz Furniturewala 和 Jingwei Gao 的宝贵意见和讨论。
+这项工作得到了新加坡教育部 AcRF TIER 3 Grant (`MOE-MOET32022-0001`) 的支持。我们感谢 [Shaz Furniturewala](https://scholar.google.com/citations?user=w1eX7u0AAAAJ&hl=en&inst=3212728378801010220) 和 [Jingwei Gao (高经纬)](https://lobbyboy-dray.github.io/). 的宝贵意见和讨论。
 
 ## 汇报问题
 

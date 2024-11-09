@@ -53,7 +53,7 @@ We thank all contributors of the prior models used in our study:
 
 ## Acknowledgment
 
-This work was supported by the Singapore Ministry of Education AcRF TIER 3 Grant (`MOE-MOET32022-0001`). We gratefully acknowledge invaluable comments and discussions with Shaz Furniturewala and Jingwei Gao.
+This work was supported by the Singapore Ministry of Education AcRF TIER 3 Grant (`MOE-MOET32022-0001`). We gratefully acknowledge invaluable comments and discussions with [Shaz Furniturewala](https://scholar.google.com/citations?user=w1eX7u0AAAAJ&hl=en&inst=3212728378801010220) and [Jingwei Gao](https://lobbyboy-dray.github.io/).
 
 ## Bug Reports
 
