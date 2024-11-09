@@ -17,8 +17,8 @@ This repository contains the codes and datasets used in our study.
 
 **Link to Paper:**
 
-- Main: [TBD]
-- Supplementary Information: [TBD]
+- Main: [`TBD`]
+- Supplementary Information: [`TBD`]
 
 ## Dataset
 
@@ -51,13 +51,17 @@ We thank all contributors of the prior models used in our study:
   - `./script/3.evaluation.batch.py` Evaluations of all models
   - `...`
 
+## Acknowledgment
+
+This work was supported by the Singapore Ministry of Education AcRF TIER 3 Grant (`MOE-MOET32022-0001`). We gratefully acknowledge invaluable comments and discussions with Shaz Furniturewala and Jingwei Gao.
+
 ## Bug Reports
 
 - If you encountered any questions, feel free to reach out to Rongxin (rongxin$u.nus.edu). 😄
 
 ## Citation
 
-TBD
+`TBD`
 
 ## License
 

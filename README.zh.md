@@ -17,8 +17,8 @@
 
 **论文链接:**
 
-- 正文: [TBD]
-- 补充材料: [TBD]
+- 正文: `[TBD]`
+- 补充材料: `[TBD]`
 
 ## 数据集
 
@@ -51,13 +51,17 @@
   - `./script/3.evaluation.batch.py` 评估所有模型
   - `...`
 
+## 致谢
+
+这项工作得到了新加坡教育部 AcRF TIER 3 Grant (`MOE-MOET32022-0001`) 的支持。我们感谢 Shaz Furniturewala 和 Jingwei Gao 的宝贵意见和讨论。
+
 ## 汇报问题
 
-- 如果您遇到任何问题，请随时联系荣鑫 (rongxin$u.nus.edu)。 😄
+- 如果您遇到任何问题，请随时联系荣鑫 (`rongxin$u.nus.edu`)。 😄
 
 ## 引用格式
 
-TBD
+`TBD`
 
 ## 开源协议
 
