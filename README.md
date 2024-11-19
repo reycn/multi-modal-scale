@@ -17,9 +17,9 @@ This repository contains the codes and datasets used in our study.
 
 **Link to Paper:**
 
-- Main: [`TBD`]
-- Supplementary Information: [`TBD`]
-
+- **AAAI Proceedings**: [TBD] *(main)*  
+- **ArXiv**: [2411.10480](https://arxiv.org/abs/2411.10480) *(main + supplementary information)*
+  
 ## Dataset
 
 Due to the size and copyright restrictions of the original dataset, please use the provided links to access the dataset for our study.
