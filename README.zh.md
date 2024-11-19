@@ -20,6 +20,10 @@
 - **AAAI 论文集**: [待更新] *(主要内容)*  
 - **ArXiv**: [2411.10480](https://arxiv.org/abs/2411.10480) *(主要内容 + 补充材料)*
 
+**教程链接：**
+对于愿意使用大型语言模型注释图像的社会科学家，我们提供了一个在谷歌 Colab 免费资源上测试通过的简化教程：
+- **教程**: [使用 InternVL 进行多模态分类的教程](https://colab.research.google.com/drive/1Xd4uFgEZ12fI6bfqIlwMFM4hrf_Yqays?usp=sharing)
+  
 ## 数据集
 
 由于原始数据集的大小和版权限制，请使用提供的链接访问我们研究的数据集。
