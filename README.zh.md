@@ -8,7 +8,7 @@
 
 ## 论文
 
-**发表:** [AAAI 2025](https://aaai.org/conference/aaai/aaai-25/) (学生摘要，受邀口头汇报)  
+**发表:** [AAAI 2025](https://aaai.org/conference/aaai/aaai-25/) (学生摘要，口头汇报)  
 
 **作者:** [Rongxin Ouyang (欧阳荣鑫)](https://rongxin.me/cv)$^1$, [Kokil Jaidka](https://discovery.nus.edu.sg/17291-kokil-jaidka)$^1$ $^2$, [Subhayan Mukerjee](https://discovery.nus.edu.sg/19113-subhayan-mukerjee)$^1$ $^2$, and Guangyu Cui $^2$
 
@@ -17,8 +17,8 @@
 
 **论文链接:**
 
-- 正文: `[TBD]`
-- 补充材料: `[TBD]`
+- **AAAI 论文集**: [待更新] *(主要内容)*  
+- **ArXiv**: [2411.10480](https://arxiv.org/abs/2411.10480) *(主要内容 + 补充材料)*
 
 ## 数据集
 
