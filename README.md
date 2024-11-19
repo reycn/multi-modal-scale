@@ -19,6 +19,10 @@ This repository contains the codes and datasets used in our study.
 
 - **AAAI Proceedings**: [TBD] *(main)*  
 - **ArXiv**: [2411.10480](https://arxiv.org/abs/2411.10480) *(main + supplementary information)*
+
+**Link to Tutorial,**
+for social scientis who are willing to annotate images using large language models, we provided a simplified tutorial:
+- **Tutorial**: [Tutorial of Using InternVL for a Multi-modal Classification](https://colab.research.google.com/drive/1Xd4uFgEZ12fI6bfqIlwMFM4hrf_Yqays?usp=sharing)
   
 ## Dataset
 
